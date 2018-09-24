@@ -4,4 +4,4 @@ title: "About"
 permalink: /about/
 ---
 
-Well, who am I and what am I doing? I'm a 23 year old young Adonis living in Groningen. Currently, I'm working as a Software Engineer at Fudura doing Salesforce things.
+Who am I? I'm a 23 year old living in Groningen. Currently, I'm working as a Software Engineer at Fudura doing Salesforce things.
