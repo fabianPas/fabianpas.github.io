@@ -2,8 +2,8 @@
 layout: null
 ---
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"{% if site.lang %} xml:lang="{{ site.lang }}"{% endif %}>
-  <generator uri="http://jekyllrb.com" version="{{ jekyll.version }}">Jekyll</generator>
+<feed xmlns="https://www.w3.org/2005/Atom"{% if site.lang %} xml:lang="{{ site.lang }}"{% endif %}>
+  <generator uri="https://jekyllrb.com" version="{{ jekyll.version }}">Jekyll</generator>
   {% assign feed_path = "/feed.xml" %}
   {% if site.feed and site.feed.path %}
     {% assign feed_path = site.feed.path %}
